@@ -89,7 +89,7 @@
     "prismjs": "^1.23.0",
     "sirv": "^1.0.12",
     "vite": "^2.3.7",
-    "vue": "^3.1.1"
+    "vue": "^3.4.21"
   },
   "devDependencies": {
     "@types/compression": "^1.7.0",
