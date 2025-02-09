@@ -75,7 +75,7 @@
     "diacritics": "^1.3.0",
     "escape-html": "^1.0.3",
     "fs-extra": "^10.0.0",
-    "globby": "^11.0.3",
+    "globby": "^14.1.0",
     "gray-matter": "^4.0.3",
     "lru-cache": "^6.0.0",
     "markdown-it": "^12.0.6",
@@ -88,7 +88,7 @@
     "polka": "^0.5.2",
     "prismjs": "^1.23.0",
     "sirv": "^1.0.12",
-    "vite": "^2.3.7",
+    "vite": "^6.1.0",
     "vue": "^3.1.1"
   },
   "devDependencies": {
